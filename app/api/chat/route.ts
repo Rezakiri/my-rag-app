@@ -41,7 +41,7 @@ Answer:`;
           content: prompt 
         }
       ],
-      model: 'mixtral-8x7b-32768',
+      model: 'openai/gpt-oss-20b',
       stream: true,
     });
 
